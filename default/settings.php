@@ -215,9 +215,9 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'n3v7_cap',
-      'username' => 'root',
-      'password' => 'root',
+      'database' => '#DATABASE#',
+      'username' => '#DB_USERNAME#',
+      'password' => '#DB_PWD#',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
